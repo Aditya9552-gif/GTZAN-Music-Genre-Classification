@@ -31,7 +31,7 @@ To run this project locally, follow the steps below:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Aditya2710-Aditya/GTZAN-Music-Genre-Classification.git
+   git clone https://github.com/Aditya9552-gif/GTZAN-Music-Genre-Classification.git
    cd gtzan-music-genre-classification
 
 2. Create a virtual environment:
@@ -46,7 +46,6 @@ To run this project locally, follow the steps below:
 5. Navigate to the final_app.py file and run it to start the local server:
      python final_app.py
 
-6. Open your web browser and go to http://localhost:8501/ to interact with the application.
      
 ## Usage
 Audio Feature Extraction and Augmentation
